@@ -1,0 +1,32 @@
+[
+  {
+    "email": "admin@example.com",
+    "username": "admin",
+    "password": "password123",
+    "name": "Admin User",
+    "role": "admin"
+  },
+  {
+    "email": "recruiter@acme.com",
+    "username": "sarah.johnson",
+    "password": "password123",
+    "name": "Sarah Johnson",
+    "role": "recruiter",
+    "companySlug": "acme-corp"
+  },
+  {
+    "email": "recruiter2@techcorp.com",
+    "username": "john.doe",
+    "password": "password123",
+    "name": "John Doe",
+    "role": "recruiter",
+    "companySlug": "tech-corp"
+  },
+  {
+    "email": "candidate@example.com",
+    "username": "jane.smith",
+    "password": "password123",
+    "name": "Jane Smith",
+    "role": "candidate"
+  }
+]

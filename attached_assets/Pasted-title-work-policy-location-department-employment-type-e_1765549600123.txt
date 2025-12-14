@@ -1,0 +1,14 @@
+title	work_policy	location	department	employment_type	experience_level	job_type	salary_range	job_slug	posted_days_ago
+Full Stack Engineer	Remote	Berlin, Germany	Product	Full time	Senior	Temporary	AED 8K–12K / month	full-stack-engineer-berlin	40 days ago
+Business Analyst	Hybrid	Riyadh, Saudi Arabia	Customer Success	Part time	Mid-level	Permanent	USD 4K–6K / month	business-analyst-riyadh	5 days ago
+Software Engineer	Remote	Berlin, Germany	Sales	Contract	Senior	Permanent	SAR 10K–18K / month	software-engineer-berlin	32 days ago
+Marketing Manager	Hybrid	Boston, United States	Engineering	Part time	Mid-level	Temporary	AED 8K–12K / month	marketing-manager-boston	22 days ago
+UX Researcher	Hybrid	Boston, United States	Engineering	Full time	Senior	Permanent	USD 4K–6K / month	ux-researcher-boston	31 days ago
+AI Product Manager	On-site	Athens, Greece	Operations	Full time	Junior	Internship	INR 8L–15L / year	ai-product-manager-athens	37 days ago
+Sales Development Representative	Remote	Berlin, Germany	Marketing	Full time	Mid-level	Temporary	INR 8L–15L / year	sales-development-representative-berlin	27 days ago
+Frontend Engineer	Hybrid	Athens, Greece	Engineering	Part time	Junior	Temporary	USD 80K–120K / year	frontend-engineer-athens	59 days ago
+Sales Development Representative	On-site	Cairo, Egypt	Sales	Contract	Senior	Internship	USD 4K–6K / month	sales-development-representative-cairo	Posted today
+Data Analyst	On-site	Dubai, United Arab Emirates	Customer Success	Full time	Mid-level	Permanent	AED 8K–12K / month	data-analyst-dubai	53 days ago
+Solutions Consultant	Hybrid	Hyderabad, India	Engineering	Contract	Junior	Internship	AED 8K–12K / month	solutions-consultant-hyderabad	41 days ago
+Mobile Developer (Flutter)	Hybrid	Athens, Greece	Operations	Part time	Senior	Permanent	USD 80K–120K / year	mobile-developer-(flutter)-athens	43 days ago
+Operations Associate	Hybrid	Bangalore, India	Analytics	Contract	Junior	Internship	SAR 10K–18K / month	operations-associate-bangalore	16 days ago
